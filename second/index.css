@@ -49,5 +49,6 @@
     font-size: 35px;
     font-weight: 500;
     color: darkblue;
-    letter-spacing: 11px;
+    letter-spacing: 10px;
+    box-shadow: 4px 3px 5px 0px #b7b2b2;
 }
