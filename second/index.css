@@ -14,15 +14,18 @@
     margin-top: 30px;
 }
 .shape-two {
-    background-color: green;
+    background-color: #078607;
     width: 400px;
     height: 200px;
     display: inline-block;
-    margin: 0;
+    margin: 0px 50px;
 }
 .shape-three {
     background-color: lightblue;
     display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 .announcement {
     border: 4px dotted black;
@@ -36,11 +39,11 @@
     box-shadow: 10px 10px 6px 4px #2b2a2a;
 }
 .main {
-    border: 2px solid black;
-    padding: 0px 200px;
+    padding: 0px 270px;
+    margin-bottom: 30px;
 }
 .message {
-    border: 2px solid red;
+    border: 1px solid rgb(202, 202, 204);
     text-align: center;
     padding: 120px 0px;
     font-size: 35px;
